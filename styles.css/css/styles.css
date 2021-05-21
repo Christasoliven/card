@@ -1,0 +1,71 @@
+.card {
+    
+    border-color: gray;
+    margin: 100px;
+    width: 650px;
+    border-style: solid;
+    position: relative;
+    flex-direction: column;
+    
+}
+
+.topcolor {
+    background-color: slateblue;
+    height: 100px;
+    width: 650px;
+}
+
+.circ {
+    height: 90px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.anita {
+    top: 40px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.here {
+    width: 15px;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.louis {
+    left: 100px;
+    display: inline-block
+}
+
+.mvn {
+    display: inline-flex;
+    
+}
+
+.moral {
+    padding-bottom: 10px;
+    
+}
+
+.wheel {
+    height: 40px;
+}
+
+
+.prof {
+    display: inline-flex
+}
+
+h2, h3, p {
+    font-family: cursive;
+}
+
+
+.edit {
+    color: dodgerblue;
+    display: inline-block;
+    text-decoration: underline;
+}
+
